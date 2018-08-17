@@ -1,0 +1,27 @@
+{
+  "name": "acme-user-thing-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syamas02/acme-user-thing-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syamas02/acme-user-thing-react/issues"
+  },
+  "homepage": "https://github.com/syamas02/acme-user-thing-react#readme",
+  "dependencies": {
+    "nodemon": "^1.18.3",
+    "psql": "0.0.1",
+    "sequelize": "^4.38.0",
+    "webpack": "^4.16.5"
+  }
+}
